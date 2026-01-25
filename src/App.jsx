@@ -1,5 +1,8 @@
 import Header from "./Header.jsx"
 import Footer from "./Footer.jsx"
+import UserGreetings from "./User.jsx"
+
+
 import Card from "./Card.jsx"
     function App() {
         return(
