@@ -4,6 +4,7 @@ import UserGreetings from "./User.jsx"
 
 
 import Card from "./Card.jsx"
+
     function App() {
         return(
             <>
@@ -12,6 +13,7 @@ import Card from "./Card.jsx"
                 <Card name="Tata" text="Senior Developer"/>
                 <Card text="Debil"/>
                 <Footer/>
+                <UserGreetings isLog={true}/>
             </>
             
         )        
