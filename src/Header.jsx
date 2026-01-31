@@ -1,14 +1,9 @@
-
-function Header(){
+function Header() {
     return(
-        <header>
-            <h1>My loving website</h1>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact US</a></li>
-            </ul>
-        </header>
-    );
+        <>
+            <h1>Test Color Picker</h1>
+            <p>Beta Verze</p>
+        </>
+    )
 }
-export default Header
+export default Header;
